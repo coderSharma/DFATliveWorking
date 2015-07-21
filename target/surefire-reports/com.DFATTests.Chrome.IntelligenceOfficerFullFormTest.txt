@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.DFATTests.Chrome.IntelligenceOfficerFullFormTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 132.829 sec
